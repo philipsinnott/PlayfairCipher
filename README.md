@@ -1,6 +1,6 @@
 # Playfair Cipher
 ---
-This repository holds my implementation of [Playfair cipher](https://en.wikipedia.org/wiki/Playfair_cipher), a manual symmetric encryption technique. I've verified that the code works using [Planetcalc](https://planetcalc.com/7751/).
+This repository holds my implementation of [Playfair cipher](https://en.wikipedia.org/wiki/Playfair_cipher), a manual symmetric encryption technique. I've verified that the code works using [Planetcalc](https://planetcalc.com/7751).
 ## Usage
 ---
 ```
